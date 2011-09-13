@@ -1,0 +1,7 @@
+How to install (from the terminal):
+
+mkdir p ~/Library/Application\ Support/TextMate/Bundles
+cd !$
+git clone https://github.com/pnomolos/Lemonstand-Textmate-Bundle Lemonstand.tmbundle
+osacript -e 'tell app "TextMate" to reload bundles'
+
