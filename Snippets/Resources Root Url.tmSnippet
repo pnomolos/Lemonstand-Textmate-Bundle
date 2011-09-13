@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?= root_url('/resources/$1'); ?&gt;</string>
+	<key>name</key>
+	<string>Root Url - Resources</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>rru</string>
+	<key>uuid</key>
+	<string>F7746088-2341-42C2-B881-76899EF8083B</string>
+</dict>
+</plist>

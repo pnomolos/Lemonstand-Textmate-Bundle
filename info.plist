@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>7D4CA5B5-5193-457D-A087-55C68A16CEC1</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>7D4CA5B5-5193-457D-A087-55C68A16CEC1</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>51503834-88E8-4830-ACC9-88F910FED0FE</string>
+					<string>F7746088-2341-42C2-B881-76899EF8083B</string>
+				</array>
+				<key>name</key>
+				<string>Shortcuts</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Lemonstand</string>
+	<key>ordering</key>
+	<array>
+		<string>3345D248-4EFE-4FE5-9392-4F601AE93E75</string>
+		<string>51503834-88E8-4830-ACC9-88F910FED0FE</string>
+		<string>F7746088-2341-42C2-B881-76899EF8083B</string>
+	</array>
+	<key>uuid</key>
+	<string>1C6476CD-1492-40AF-9C3D-140BBECE93CA</string>
+</dict>
+</plist>
